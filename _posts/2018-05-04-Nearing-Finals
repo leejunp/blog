@@ -1,0 +1,7 @@
+---
+title: Mobile Version
+---
+
+I completed the coding of the hamburger menu for responsive modes. When the screen becomes too small, the side menu will turn into a hamburger menu to save space. I still have not figured out how exactly I am going to code the home page yet since I have to completely redesign the page. I will probably get rid of the image completely and have a minimal introductory page.
+
+<img src="Images/mobile.png" alt="content" width="600px">
